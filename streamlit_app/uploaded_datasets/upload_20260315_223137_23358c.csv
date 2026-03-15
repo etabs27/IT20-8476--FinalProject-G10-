@@ -1,0 +1,11 @@
+product_category,product_price,quantity,order_date,region,payment_method,delivery_days,customer_rating,discount_percent,revenue
+Beauty,450,5,2024-05-20,Europe,Cash,9,2.0,20,2250
+Electronics,1200,2,2024-05-18,Asia,CreditCard,5,4.5,10,2400
+Fashion,80,10,2024-05-15,North America,CreditCard,7,3.8,15,800
+Home,300,3,2024-05-12,Europe,BankTransfer,6,4.0,5,900
+Sports,150,4,2024-05-10,Asia,PayPal,8,3.5,12,600
+Toys,220,6,2024-05-08,South America,Cash,10,4.2,8,1320
+Electronics,950,1,2024-05-05,Europe,CreditCard,4,4.8,7,950
+Fashion,60,12,2024-05-03,Africa,PayPal,11,3.2,18,720
+Beauty,500,2,2024-05-01,Asia,BankTransfer,6,4.6,10,1000
+Home,200,5,2024-04-28,Oceania,Cash,9,3.9,14,1000

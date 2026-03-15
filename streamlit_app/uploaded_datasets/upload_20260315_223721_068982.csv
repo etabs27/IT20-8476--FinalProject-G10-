@@ -1,0 +1,11 @@
+Product Category,Product Price ($),Quantity (units),Order Date,Region,Payment Method,Delivery Days,Customer Rating,Discount Percent,Revenue
+Beauty,450.0,5,2024-05-20,Europe,Cash,9,2.0,20,2250
+Electronics,1200.0,2,2024-05-18,Asia,Credit Card,5,4.5,10,2400
+Clothing,80.0,10,2024-05-15,North America,Debit Card,7,3.8,15,800
+Beauty,300.0,3,2024-05-12,Europe,Cash,6,4.0,5,900
+Home,150.0,4,2024-05-10,Asia,Credit Card,8,3.5,12,600
+Sports,220.0,6,2024-05-08,South America,Cash,10,4.2,8,1320
+Electronics,950.0,1,2024-05-05,Europe,Debit Card,4,4.8,7,950
+Clothing,60.0,12,2024-05-03,Africa,Mobile Payment,11,3.2,18,720
+Beauty,500.0,2,2024-05-01,Asia,Credit Card,6,4.6,10,1000
+Home,200.0,5,2024-04-28,North America,Cash,9,3.9,14,1000
