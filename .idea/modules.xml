@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/IT12-FinalProject-G10-LightGBM.iml" filepath="$PROJECT_DIR$/.idea/IT12-FinalProject-G10-LightGBM.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/IT2-FinalProject-G10-LogisticRegression.iml" filepath="$PROJECT_DIR$/.idea/IT2-FinalProject-G10-LogisticRegression.iml" />
+>>>>>>> 030db1eb129d8fd04ae38d2910e8b8c35bfae658
     </modules>
   </component>
 </project>
